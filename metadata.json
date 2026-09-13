@@ -1,0 +1,6 @@
+{
+  "name": "Stassen.io",
+  "description": "Autonomous digital-business operating system and private command center with AI workforce, product factory, financial center, and knowledge graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
